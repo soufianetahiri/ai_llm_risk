@@ -1199,14 +1199,7 @@ Le référentiel **MITRE ATLAS** (*Adversarial Threat Landscape for Artificial
     -   Identifier **les techniques concrètes** (ex. Data Poisoning, Model DoS, Distillation) associées à ces vulnérabilités.
     -   Mettre en place un (des ) **plan de défense** aligné sur les meilleures pratiques ATLAS, en incluant des contrôles préventifs et correctifs adaptés.
 
-**Exemple de Lecture du Tableau :**\
-Si vous voyez qu'une vulnérabilité donnée (ex. *Prompt Injection*) est mappée à "Manipulating Model Inputs (TA0001)" et "Model Misuse (TA0007)", vous pourrez :
-
-1.  Chercher dans ATLAS les techniques listées sous *TA0001* et *TA0007*
-2.  Vérifier la bonne implémentation des contre-mesures associées (ex. détection, logs, audits)
-3.  Comprendre l'étendue potentielle de l'attaque (du simple contournement de règles au vol de données) et prioriser le (les ) plan d'action.
-
-Note : Ce mapping est en draft pour le moment ![(smile)](https://confluence.cdiscount.com/s/-rylaup/8804/z1btw/_/images/icons/emoticons/smile.svg)
+Note : Ce mapping est en draft pour le moment! 
 
 |
 
